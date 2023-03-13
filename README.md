@@ -1,1 +1,1 @@
-My system  engineering devops respository
+shell permissions
